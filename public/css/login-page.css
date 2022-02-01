@@ -1,0 +1,18 @@
+.navbar {
+    background: #0f1626 !important;
+}
+.navbar-brand {
+    color: white !important;
+    font-weight: 500;
+}
+.nav-link {
+    color: white !important;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    margin-right: 20px;
+    font-weight: 300;
+}
+
+.nav-link:hover {
+    background: rgba(42, 58, 95, 0.5);
+}
